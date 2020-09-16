@@ -1,0 +1,7 @@
+I:\IA119\OOP\KlasseModellieren\KlasseModellieren\bin\Debug\KlasseModellieren.exe.config
+I:\IA119\OOP\KlasseModellieren\KlasseModellieren\bin\Debug\KlasseModellieren.exe
+I:\IA119\OOP\KlasseModellieren\KlasseModellieren\bin\Debug\KlasseModellieren.pdb
+I:\IA119\OOP\KlasseModellieren\KlasseModellieren\obj\Debug\KlasseModellieren.csprojAssemblyReference.cache
+I:\IA119\OOP\KlasseModellieren\KlasseModellieren\obj\Debug\KlasseModellieren.csproj.CoreCompileInputs.cache
+I:\IA119\OOP\KlasseModellieren\KlasseModellieren\obj\Debug\KlasseModellieren.exe
+I:\IA119\OOP\KlasseModellieren\KlasseModellieren\obj\Debug\KlasseModellieren.pdb

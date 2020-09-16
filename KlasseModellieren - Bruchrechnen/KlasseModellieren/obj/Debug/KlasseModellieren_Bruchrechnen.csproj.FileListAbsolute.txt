@@ -1,0 +1,7 @@
+C:\Users\Schmitz\source\repos\KlasseModellieren - Bruchrechnen\KlasseModellieren\bin\Debug\KlasseModellieren.exe.config
+C:\Users\Schmitz\source\repos\KlasseModellieren - Bruchrechnen\KlasseModellieren\bin\Debug\KlasseModellieren.exe
+C:\Users\Schmitz\source\repos\KlasseModellieren - Bruchrechnen\KlasseModellieren\bin\Debug\KlasseModellieren.pdb
+C:\Users\Schmitz\source\repos\KlasseModellieren - Bruchrechnen\KlasseModellieren\obj\Debug\KlasseModellieren_Bruchrechnen.csprojAssemblyReference.cache
+C:\Users\Schmitz\source\repos\KlasseModellieren - Bruchrechnen\KlasseModellieren\obj\Debug\KlasseModellieren_Bruchrechnen.csproj.CoreCompileInputs.cache
+C:\Users\Schmitz\source\repos\KlasseModellieren - Bruchrechnen\KlasseModellieren\obj\Debug\KlasseModellieren.exe
+C:\Users\Schmitz\source\repos\KlasseModellieren - Bruchrechnen\KlasseModellieren\obj\Debug\KlasseModellieren.pdb
